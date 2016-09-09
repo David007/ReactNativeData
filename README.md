@@ -5,3 +5,9 @@
 * React Native学习指南  http://www.jianshu.com/p/fd4591a978ba
 * React Native fetch使用心得  http://www.tuicool.com/articles/M7NRr27
 * 江清清React Native技术专栏  http://www.lcode.org/
+
+
+
+#一些开源项目
+
+* 云翻译  https://github.com/eesc88/programmer
